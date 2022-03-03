@@ -1,6 +1,6 @@
 # todo_list
 
-A new Flutter project.
+This projected created to show how to use Hive database to store data locally.
 
 <img src="https://user-images.githubusercontent.com/46969763/156146096-f07cb2c8-d72e-40e9-bdae-8b6c3cb95fbc.png" width="300">
 <img src="https://user-images.githubusercontent.com/46969763/156147247-a2d77940-7562-4b10-902d-8fb7dea0e412.png" width="300">
