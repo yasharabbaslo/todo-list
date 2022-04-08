@@ -3,6 +3,7 @@ part 'data.g.dart';
 
 @HiveType(typeId: 0)
 class TaskData extends HiveObject {
+  int id = -1;
   @HiveField(0)
   String title = '';
   @HiveField(1)
